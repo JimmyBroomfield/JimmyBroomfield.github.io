@@ -1,0 +1,17 @@
+CACHE MANIFEST
+# 2012-02-21 v1.0.0
+/style.css
+books.jpg
+/images/books.jpg
+/images/climbing.jpg
+/images/coding.jpg
+/images/cooking.jpg
+/images/idea.jpg
+/images/penAndPaper.jpg
+/images/plasma.jpg
+/images/workout.jpg
+NETWORK:
+login.asp
+
+FALLBACK:
+/html/ /offline.html
