@@ -146,7 +146,7 @@ params:
     title: "About Me"
     image: "/images/side_profile.png"
     content: |-
-      I am a Principal Data Scientist with a passion for building scalable systems that bridge science, software, and strategy. With a background in mathematics, physics, and chemistry, I thrive in an environment wheredata-driven innovation meets large-scale system design. I currently lead high-impact forecasting and measurement initiatives at Target, where I drive the vision, execution, and delivery of forecasting solutions that directly shape operational decisions and strategy.
+      I am a Principal Data Scientist with a passion for building scalable systems that bridge science, software, and strategy. With a background in mathematics, physics, and chemistry, I thrive in an environment where data-driven innovation meets large-scale system design. I currently lead high-impact forecasting and measurement initiatives at Target, where I drive the vision, execution, and delivery of forecasting solutions that directly shape operational decisions and strategy.
 
       My recent work includes developing a no-history forecasting model, a demand forecast measurement and evaluation framework, and a real-time interactive forecasting model for in-season and pre-season planning. These initiatives deliver experimentation velocity, monitoring, and business capabilities across the organization.
 
