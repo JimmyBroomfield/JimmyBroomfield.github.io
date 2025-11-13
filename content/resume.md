@@ -120,7 +120,7 @@ Triple major: Mathematics, Physics, Chemistry
 ---
 
 ## **Selected Projects**
-- **Real-Time Interactive Forecasting**: Built a model for **pre-season and in-season forecasting**, improving planning and strategy.
+- **Real-Time Interactive Forecasting**: Planned and designed a new forecasting system for **pre-season and in-season forecasting**, improving planning and strategy.
 - **DFE-Lite**: An inernally published R library that provides a high performance framwork for training generalized additive mixed models for demand forecasting and other use cases.
 - **DFE Measurement Library**: An internally published python library for measuring **systems** of forecasting model (as opposed to individual models).
 - **Demand-Based Store Clustering**: Led the design of algorithms that optimized model strucutre for forecasting based on demand similarity profiles.
