@@ -121,7 +121,11 @@ Triple major: Mathematics, Physics, Chemistry
 
 ## **Selected Projects**
 - **Real-Time Interactive Forecasting**: Built a model for **pre-season and in-season forecasting**, improving planning and strategy.
-- **Demand-Based Store Clustering**: Led the design of algorithms that optimized Target's store layout and inventory planning.
+- **DFE-Lite**: An inernally published R library that provides a high performance framwork for training generalized additive mixed models for demand forecasting and other use cases.
+- **DFE Measurement Library**: An internally published python library for measuring **systems** of forecasting model (as opposed to individual models).
+- **Demand-Based Store Clustering**: Led the design of algorithms that optimized model strucutre for forecasting based on demand similarity profiles.
+- **No History Models**: Led the design and implementation of a system to provide better forecasts for items with no sales history (cold start problem).
+- **Short History Digital Models**: Implemented new forecasting models for digital items with short history.
 
 ---
 
