@@ -123,7 +123,7 @@ params:
     intro: "Hello world, my name is"
     title: "Jimmy."
     subtitle: "I design and build scalable DS-driven systems."
-    content: "I'm passionate about turning complex data into practical, high-impact solutions. My work bridges machine learning, distributed computing, and hybrid cloud systems—drawing on a strong foundation in mathematics, statistics, and software design. I've built and maintained production ML pipelines using multiple frameworks on-prem, on-cloud, and in hybrid environments. I'm fluent across Spark, Scala, Python, Java, and R, and I lead teams of data scientists to design, deliver, and scale intelligent systems that power innovation and transform how organizations use data in operations."
+    content: "I'm passionate about turning complex data into practical, high-impact solutions. My work bridges machine learning, distributed computing, and hybrid cloud systems—drawing on a strong foundation in mathematics, statistics, and software design. I've built and maintained production ML pipelines using multiple frameworks on-prem, on-cloud, and in hybrid environments. I'm fluent across Spark, Scala, Python, Java, and R, and I support teams of data scientists to design, deliver, and scale intelligent systems that power innovation and transform how organizations use data in operations."
     image: /side_profile.jpg
     bottomImage:
       enable: true
